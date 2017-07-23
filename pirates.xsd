@@ -1,1 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://github.com/mollyherring/lis2407FinalProject/blob/master/pirates.xsd"
+    xmlns:pi="http://github.com/mollyherring/lis2407FinalProject/blob/master/pirates.xsd"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    elementFormDefault="qualified">
+    
+    <xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
+    <xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" />
+    <xs:import namespace="http://www.loc.gov/mods/v3" schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
+    
+    <xs:element name="pirates">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="PirateName" type="xs:string"/>
+                <xs:element name="AppearsIn" type="xs:string"/>
+                <xs:element name="CultrualReference" type="xs:string" />
+                <xs:element ref="pi:modsSection" minOccurs="0"/>
+                <xs:element ref="pi:dcSection" minOccurs="0" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    
+    <xs:element name="modsSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="mods:mods" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="dcSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:sequence>
+                    <xs:element ref="dc:any" maxOccurs="unbounded" />
+                </xs:sequence>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    
 
+
+
+
+
+</xs:schema>
