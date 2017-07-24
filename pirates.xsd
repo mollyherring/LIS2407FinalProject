@@ -47,7 +47,6 @@
     <xs:element name="pbSection">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="pbcore:pbcoreCollection"/>
                 <xs:element ref="pbcore:pbcoreDescriptionDocument"/>
             </xs:sequence>
         </xs:complexType>
