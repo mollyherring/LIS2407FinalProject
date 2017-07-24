@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
-    xmlns="https://github.com/mbolam/lis2407"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
- xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/">
- 
-    
- 
- 
-    
-</pirates>
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
 
+</pirates>
