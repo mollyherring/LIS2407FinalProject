@@ -17,7 +17,7 @@
             <xs:sequence>
                 <xs:element name="PirateName" type="xs:string" maxOccurs="unbounded" minOccurs="0"/>
                 <xs:element name="AppearsIn" type="xs:string" maxOccurs="unbounded" minOccurs="0" />
-                <xs:element name="CultrualReference" type="xs:string" maxOccurs="unbounded" minOccurs="0" />
+                <xs:element name="CulturalReference" type="xs:string" maxOccurs="unbounded" minOccurs="0" />
                 <xs:element ref="pi:modsSection" minOccurs="0"/>
                 <xs:element ref="pi:dcSection" minOccurs="0" />
                 <xs:element ref="pi:pbSection" minOccurs="0"/>
