@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    targetNamespace="http://github.com/mollyherring/lis2407FinalProject/master/pirates.xsd"
-    xmlns:pi="http://github.com/mollyherring/lis2407FinalProject/master/pirates.xsd"
+    targetNamespace="https://github.com/mollyherring/LIS2407FinalProject"
+    xmlns:pi="https://github.com/mollyherring/LIS2407FinalProject"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:mods="http://www.loc.gov/mods/v3" 
     xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
@@ -15,9 +15,9 @@
         <xs:element name="pirates">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="PirateName" type="xs:string"/>
-                <xs:element name="AppearsIn" type="xs:string"/>
-                <xs:element name="CultrualReference" type="xs:string" />
+                <xs:element name="PirateName" type="xs:string" maxOccurs="unbounded" minOccurs="0"/>
+                <xs:element name="AppearsIn" type="xs:string" maxOccurs="unbounded" minOccurs="0" />
+                <xs:element name="CultrualReference" type="xs:string" maxOccurs="unbounded" minOccurs="0" />
                 <xs:element ref="pi:modsSection" minOccurs="0"/>
                 <xs:element ref="pi:dcSection" minOccurs="0" />
                 <xs:element ref="pi:pbSection" minOccurs="0"/>
