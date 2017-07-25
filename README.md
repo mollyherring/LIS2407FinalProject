@@ -17,7 +17,7 @@ List of Objects in the Collection:
 * First edition of *Treasure Island* by Robert Louis Stevenson
 * First edition pamphlet of “The Tryals of Captain Jack Rackam and other PIrates…” 
 * *British Piracy in the Golden Age: History and Interpretation 1660-1730*
-* "A map of the West-Indies or the islands of America in the North Sea" from 1715
+* "A map of the West-Indies or the islands of America in the North Sea" from 1732
 * Print of "Anne Bonney with axe and unsheathed cutlass"
 * Print of "Captain Charles Vane"
 * Jolly Roger (flag) flown by Calico Jack
