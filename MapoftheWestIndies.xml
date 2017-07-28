@@ -37,10 +37,11 @@
     </dcSection>
     <pbSection>
         <pbcore:pbcoreDescriptionDocument>
-            <pbcore:pbcoreIdentifier source="local">p1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreIdentifier source="local">p3</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>A map of the West-Indies or the islands of America in the North Sea with ye adjacent countries; explaning [sic] what belongs to Spain, England, France, Holland etc. also ye trade winds, and ye several tracts made by ye galeons and flota from place to place. According to ye newest and most exact observations,</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Hand colored. Relief shown pictorially. "Sold by H. Moll and by I. King at ye Globe in ye Poultrey near Stocks Market." "To Wil. Paterson esq; this map of the West-Indies etc. is most humbly dedicated ... " Shows southern United States, Mexico, Central America, West Indies, and northern South America. Insets: The city of Mexico in New Spain.--A draught of ye citty of Cartagena, its harbour and forts.--[Porta Bella] --A draught of the bay and citty of Havanna.--A draught of St. Augustin and its harbour. Includes historical notes.</pbcore:pbcoreDescription>
             <pbcore:pbcoreAudienceLevel>General Education</pbcore:pbcoreAudienceLevel>
         </pbcore:pbcoreDescriptionDocument>
     </pbSection>
 </pirates>
+
