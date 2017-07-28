@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
+    <PirateName>Long John Silver</PirateName>
+    <PirateName>Calico Jack Rackahm</PirateName>
+    <PirateName>Ann Bonny</PirateName>
+    <PirateName>Captain James Flint</PirateName>
+    <PirateName>Captain Charles Vane</PirateName>
+    <PirateName>Billy Bones</PirateName>
+    <CulturalReference>Pop Culture</CulturalReference>
+    <modsSection>
+        <mods:mods>
+            <mods:typeOfResource>moving image</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form authority="migfg">television series</mods:form>
+            </mods:physicalDescription>
+            <mods:name type="personal">
+                <mods:namePart>Toby Stephens</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">act</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Zach McGowan</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">act</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Luke Arnold</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">act</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Hannah New</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">act</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Jessica Parker Kennedy</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">act</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="personal">
+                <mods:namePart>Ray Stevenson</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">act</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Anchor Bay Entertainment, Inc.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">prn</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates--Fiction</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates--History</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates--Bahamas--Nassau--Drama</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates--Bahamas--New Providence--Drama</dc:subject>
+        <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+        <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+        <dc:language xsi:type="dcterms:ISO639-2">fre</dc:language>
+        <dc:language xsi:type="dcterms:ISO639-2">spa</dc:language>
+        <dcterms:references>Characters from and plot of Treasure Island</dcterms:references>
+        <dcterms:references>Historical figures from Golden Age of Piracy</dcterms:references>
+        <dc:coverage xsi:type="dcterms:Period">Golden Age of Piracy; start=1650; end=1730</dc:coverage>
+        <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    </dcSection>
+    <pbSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreIdentifier source="local">p5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Black Sails: The Complete Third Season</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>In the wake of the burning of Charles Town, all the New World lives in fear of Captain Flint. But when his campaign of terror crosses over into madness, and new threats emerge to challenge his supremacy, it falls to John Silver to locate the man within the monster, before Flint's war against the world consumes them all. Meanwhile, on the pirate island of Nassau, it's a new day.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreAudienceLevel>Adult</pbcore:pbcoreAudienceLevel>
+            <pbcore:pbcoreAudienceRating source="TV Parental Guidelines">TV-MA</pbcore:pbcoreAudienceRating>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbSection>
+</pirates>

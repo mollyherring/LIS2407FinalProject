@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
+    <PirateName>Captain Charles Vane</PirateName>
+    <AppearsIn>A Generaly History of the Pyrates by Captain Charles Johnson</AppearsIn>
+    <CulturalReference>Historical</CulturalReference>
+    <modsSection>
+    <mods:mods>
+        <mods:typeOfResource>still image</mods:typeOfResource>
+        <mods:physicalDescription>
+            <mods:form authority="marcgt">graphic</mods:form>
+        </mods:physicalDescription>
+    </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates--History</dc:subject>
+        <dc:date xsi:type="dcterms:W3CDTF">1725</dc:date>
+        <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+        <dcterms:isReferencedBy>Black Sails: The Complete First Season</dcterms:isReferencedBy>
+        <dcterms:isReferencedBy>Black Sails: The Complete Second Season</dcterms:isReferencedBy>
+        <dcterms:isReferencedBy>Black Sails: The Complete Third Season</dcterms:isReferencedBy>
+        <dcterms:isPartOf>A General History of the Pyrates</dcterms:isPartOf>
+        <dc:coverage xsi:type="dcterms:Period">Golden Age of Piracy; start=1650; end=1730</dc:coverage>
+        <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    </dcSection>  
+    <pbSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreIdentifier source="local">p4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Captain Charles Vane</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Print of Captain Charles Vane holding sword with a ship in the background</pbcore:pbcoreDescription>
+            <pbcore:pbcoreAudienceLevel>General Education</pbcore:pbcoreAudienceLevel>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbSection>
+</pirates>

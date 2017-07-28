@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
+    <PirateName>Long John Silver</PirateName>
+    <PirateName>Captain James Flint</PirateName>
+    <PirateName>Billy Bones</PirateName>
+    <CulturalReference>Pop Culture</CulturalReference>
+    <modsSection>
+        <mods:mods>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form authority="marcgt">book</mods:form>
+            </mods:physicalDescription>
+            <mods:name type="personal">
+                <mods:namePart>Robert Louis Stevenson</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name type="corporate">
+                <mods:namePart>Cassel and Company</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">pbi</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates --Fiction.</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Adventure stories.</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Treasure Island (Imaginary place) --Fiction.</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Stevenson, Robert Louis, 1850-1894. Treasure Island.</dc:subject>
+        <dc:date xsi:type="dcterms:W3CDTF">1883</dc:date>
+        <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+        <dc:coverage xsi:type="dcterms:Period">Golden Age of Piracy; start=1650; end=1730</dc:coverage>
+        <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    </dcSection>
+    <pbSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreIdentifier source="local">p6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Treasure Island</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>First edition of Robert Louis Stevenson's classic adventure novel. Original publisher’s blue gilt-stamped cloth, slight fraying at top and bottom of spine</pbcore:pbcoreDescription>
+            <pbcore:pbcoreAudienceLevel>General Education</pbcore:pbcoreAudienceLevel>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbSection>
+</pirates>
+

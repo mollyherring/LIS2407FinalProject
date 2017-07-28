@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
+    <CulturalReference>Historical</CulturalReference>
+    <modsSection>
+        <mods:mods>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form authority="marcgt">book</mods:form>
+            </mods:physicalDescription>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:subject xsi:type="dcterms:LCSH">Hamilton, Archibald, Lord, -1754--Trials, litigation, etc.</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Hijacking of ships--Jamaica.</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Jamaica--Politics and government--Early works to 1800.</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates--History</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+        <dc:date xsi:type="dcterms:W3CDTF">1717</dc:date>
+        <dc:identifier>p3</dc:identifier>
+        <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+        <dcterms:references>Characters from Black Sails</dcterms:references>
+        <dc:coverage xsi:type="dcterms:Period">Golden Age of Piracy; start=1650; end=1730</dc:coverage>
+        <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    </dcSection>
+    <pbSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreIdentifier source="local">p2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Articles exhibited against Lord Archibald Hamilton, late governour of Jamaica with sundry depositions and proofs relating to the same</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Lord Archibald Hamilton was accused of encouraging acts of piracy against French and Spanish vessels while serving as governor of Jamaica.
+            </pbcore:pbcoreDescription>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbSection>
+</pirates>
