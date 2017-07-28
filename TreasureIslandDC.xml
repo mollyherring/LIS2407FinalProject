@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Treasure Island</dc:title>
+    <dc:creator>Robert Louis Stevenson</dc:creator>
+    <dc:creator>Cassel and Company</dc:creator>
+    <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Pirates --Fiction.</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Adventure stories.</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Treasure Island (Imaginary place) --Fiction.</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Stevenson, Robert Louis, 1850-1894. Treasure Island.</dc:subject>
+    <dc:description>First edition of Robert Louis Stevenson's classic adventure novel. Original publisher’s blue gilt-stamped cloth, slight fraying at top and bottom of spine</dc:description>
+    <dcterms:available xsi:type="dcterms:W3CDTF">1883</dcterms:available>
+    <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+    <dc:format>Book</dc:format>
+    <dc:identifier>P-3</dc:identifier>
+    <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+    <dcterms:isReferencedBy>Black Sails</dcterms:isReferencedBy>
+    <dc:coverage xsi:type="dcterms:Period">1700-1800</dc:coverage>
+    <dcterms:audience>Researchers interested in historical representation in popular culture</dcterms:audience>
+    <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+</metadata>
