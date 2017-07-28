@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
+    <CulturalReference>Historical</CulturalReference>
+    <modsSection>
+        <mods:mods>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form authority="marcgt">book</mods:form>
+            </mods:physicalDescription>
+            <mods:name>
+                <mods:namePart>Johnson, Charles, fl. 1724-1731</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>contributor</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name>
+                <mods:namePart>Defore, Daniel, 1661-1731</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm>creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>    
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">18th century</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">17th Century</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Caribbean Area</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">West Indies</dc:subject>
+        <dc:date xsi:type="dcterms:W3CDTF">1724</dc:date>
+        <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+        <dc:coverage xsi:type="dcterms:Period">Golden Age of Piracy; start=1650; end=1730</dc:coverage>
+        <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    </dcSection>
+    <pbSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreIdentifier source="local">p11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>A general history of the pyrates: from their first rise and settlement in the Island of Providence, to the present time</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>This is a book that explains the life of pirates in the Bahamas.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreAudienceLevel>General Education</pbcore:pbcoreAudienceLevel>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbSection>
+</pirates>

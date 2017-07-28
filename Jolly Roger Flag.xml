@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
+    <PirateName>Calico Jack</PirateName>
+    <CulturalReference>Historical</CulturalReference>
+    <modsSection>
+        <mods:mods>
+            <mods:typeOfResource>three dimensional object</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form>flag</mods:form>
+                <mods:extent>87x157cm</mods:extent>
+            </mods:physicalDescription>
+            <mods:name type="personal">
+                <mods:namePart>John Rackham</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">cre</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Flag</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Symbol</dc:subject>
+        <dc:date xsi:type="dcterms:W3CDTF">1750</dc:date>
+        <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+        <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    </dcSection>
+    <pbSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreIdentifier source="local">p9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Jolly Roger Flag</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Jolly Roger flag flown by Calico Jack Rackham. Made of black material with a white skull and swords attached.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreAudienceLevel>General Education</pbcore:pbcoreAudienceLevel>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbSection>
+</pirates>

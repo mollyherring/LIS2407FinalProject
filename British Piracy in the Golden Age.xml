@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pirates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/mollyherring/LIS2407FinalProject https://raw.githubusercontent.com/mollyherring/LIS2407FinalProject/master/pirates.xsd"
+    xmlns="https://github.com/mollyherring/LIS2407FinalProject" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dcterms="http://purl.org/dc/terms/"> 
+    <CulturalReference>Historical</CulturalReference>
+    <modsSection>
+        <mods:mods>
+            <mods:typeOfResource>text</mods:typeOfResource>
+            <mods:physicalDescription>
+                <mods:form authority="marcgt">book</mods:form>
+            </mods:physicalDescription>
+            <mods:name type="personal">
+                <mods:namePart>Joel Baer</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator">aut</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+        </mods:mods>
+    </modsSection>
+    <dcSection>
+        <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Pirate--History</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Privateering</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">18th Century</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">17th Century</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">Caribbean Area</dc:subject>
+        <dc:subject xsi:type="dcterms:LCSH">West Indies</dc:subject>
+        <dc:date xsi:type="dcterms:W3CDTF">1732</dc:date>
+        <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language>
+        <dc:coverage xsi:type="dcterms:Period">1660-1730</dc:coverage>
+        <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    </dcSection>
+    <pbSection>
+        <pbcore:pbcoreDescriptionDocument>
+            <pbcore:pbcoreIdentifier source="local">p10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>British Piracy in the Golden Age: History and Interpretation</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Discusses the time of the Golden Age of Piracy. The volume explains the lives of many notorious pirates, including a modern discussion of the impact of piracy.Baer cites journals, books, articles, pamphlets and much more that was created in the british colonies.</pbcore:pbcoreDescription>
+            <pbcore:pbcoreAudienceLevel>General Education</pbcore:pbcoreAudienceLevel>
+        </pbcore:pbcoreDescriptionDocument>
+    </pbSection>
+</pirates>
