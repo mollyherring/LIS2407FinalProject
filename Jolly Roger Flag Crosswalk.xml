@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/">
+    <dc:title>Jolly Roger Flag</dc:title>
+    <dc:creator>Calico Jack</dc:creator>
+    <dc:subject xsi:type="dcterms:LCSH">Pirates</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Piracy</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Flag</dc:subject>
+    <dc:subject xsi:type="dcterms:LCSH">Symbol</dc:subject>
+    <dc:description>Black and white flag flown on the ship of Jack Rackham. On the flag is a skull and crossbones that became the symbol of pirates everywhere.</dc:description>
+    <dc:date xsi:type="dcterms:Period">1750</dc:date>
+    <dc:language xsi:type="dcterms:ISO639-2">eng</dc:language> 
+    <dc:coverage xsi:type="dcterms:Period">Golden Age of Piracy; start=1650; end=1730</dc:coverage>
+    <dc:type xsi:type="dcterms:DCMIType">PhysicalObject</dc:type>
+    <dc:format>Material</dc:format>
+    <dc:format>87x157cm</dc:format>
+    <dc:identifier>p15</dc:identifier>
+    <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
+    <dcterms:isVersionOf>Flag Flow By Jack Rackham</dcterms:isVersionOf>
+    <dc:coverage xsi:type="dcterms:Period">1750-1800</dc:coverage>
+    <dc:rights>This item has been made available for use in research, teaching, and private study. Researchers are responsible for using these materials in accordance with Title 17 of the United States Code and any other applicable statutes.</dc:rights>
+    <dcterms:audience>Researchers interested in historical representation in popular culture</dcterms:audience>
+    
+</metadata>
