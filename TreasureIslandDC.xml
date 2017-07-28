@@ -16,7 +16,7 @@
     <dcterms:available xsi:type="dcterms:W3CDTF">1883</dcterms:available>
     <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
     <dc:format>Book</dc:format>
-    <dc:identifier>P-3</dc:identifier>
+    <dc:identifier>p6</dc:identifier>
     <dc:language xsi:type="dcterms:ISO639-3">eng</dc:language>
     <dcterms:isReferencedBy>Black Sails</dcterms:isReferencedBy>
     <dc:coverage xsi:type="dcterms:Period">1700-1800</dc:coverage>
